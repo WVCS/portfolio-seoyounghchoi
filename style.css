@@ -1,0 +1,41 @@
+body {
+  background-color: #95B8D1; 
+  font-family: "Courier New"
+}
+
+h1 {
+  color: #FAF3DD; 
+  text-align: center;
+  font-family: "Courier New"
+}
+
+h2 {
+  text-align: center
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  font-family: "Courier New"; 
+  text-align:center;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 2px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #FAF3DD;
+}
+
+a { color: #235789;
+  font-size: 20px;
+}
