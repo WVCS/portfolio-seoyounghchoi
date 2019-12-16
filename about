@@ -1,3 +1,9 @@
 <body>
+<ul>
+    <li> <a href="default.asp">Home</a></li>
+    <li> <a href="default.asp">About</a></li>
+    <li> <a href="default.asp">Contact</a></li>
+    <li> <a href="default.asp">Projects</a></li>
+  </ul>
 
 </body>
